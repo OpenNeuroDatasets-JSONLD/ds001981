@@ -7,11 +7,13 @@
         "Juergen Baudewig",
         "Susann Boretius"
     ],
-    "HowToAcknowledge": "Please cite this preprint paper: https://www.ncbi.nlm.nih.gov/pubmed/001012092119281",
+    "HowToAcknowledge": "Please cite this preprint paper: https://www.biorxiv.org/content/10.1101/667659v1",
     "Funding": [
         "DFG Research Center for Nanoscale Microscopy and Molecular Physiology of the Brain (CNMPB)",
         "German Academic Exchange Service (DAAD)"
     ],
-    "ReferencesAndLinks": [],
+    "ReferencesAndLinks": [
+        "https://www.ncbi.nlm.nih.gov/pubmed/001012092119281"
+    ],
     "DatasetDOI": "10.0.2.3/dfjj.10"
 }
