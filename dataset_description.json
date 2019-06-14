@@ -1,9 +1,19 @@
 {
     "Name": "Temporal stability of fMRI in medetomidine-anesthetized rats",
-    "BIDSVersion":  "1.2.0",
+    "BIDSVersion": "1.2.0",
     "License": "CC-BY",
-    "Authors": ["Nikoloz Sirmpilatze", "Juergen Baudewig", "Susann Boretius"],
-    "HowToAcknowledge": "Please cite this preprint paper: https://www.biorxiv.org/content/10.1101/667659v1",
-    "Funding": ["DFG Research Center for Nanoscale Microscopy and Molecular Physiology of the Brain (CNMPB)", "German Academic Exchange Service (DAAD)"],
-    "ReferencesAndLinks": ["Sirmpilatze N, Baudewig J, Boretius S. 2019. Temporal stability of fMRI in medetomidine-anesthetized rats. bioRxiv doi: 10.1101/667659 "]
+    "Authors": [
+        "Nikoloz Sirmpilatze",
+        "Juergen Baudewig",
+        "Susann Boretius"
+    ],
+    "HowToAcknowledge": "Please cite this preprint paper: https://www.ncbi.nlm.nih.gov/pubmed/001012092119281",
+    "Funding": [
+        "DFG Research Center for Nanoscale Microscopy and Molecular Physiology of the Brain (CNMPB)",
+        "German Academic Exchange Service (DAAD)"
+    ],
+    "ReferencesAndLinks": [
+        "https://www.ncbi.nlm.nih.gov/pubmed/001012092119281"
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds001981.v1.0.1"
 }
