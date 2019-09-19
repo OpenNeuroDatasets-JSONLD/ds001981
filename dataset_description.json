@@ -12,6 +12,8 @@
         "DFG Research Center for Nanoscale Microscopy and Molecular Physiology of the Brain (CNMPB)",
         "German Academic Exchange Service (DAAD)"
     ],
-    "ReferencesAndLinks": [],
+    "ReferencesAndLinks": [
+        "Sirmpilatze N, Baudewig J, Boretius S. 2019. Temporal stability of fMRI in medetomidine-anesthetized rats. bioRxiv doi: 10.1101/667659"
+    ],
     "DatasetDOI": "10.18112/openneuro.ds001981.v1.0.1"
 }
