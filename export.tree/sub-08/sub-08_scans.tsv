@@ -1,8 +1,0 @@
-time_with_med	participant_id	task	run	filename
-90	sub-08	efs	01	func/sub-08_task-efs_run-01_bold.nii.gz
-100	sub-08	rs	01	func/sub-08_task-rs_run-01_bold.nii.gz
-110	sub-08	efs	02	func/sub-08_task-efs_run-02_bold.nii.gz
-120	sub-08	rs	02	func/sub-08_task-rs_run-02_bold.nii.gz
-130	sub-08	efs	03	func/sub-08_task-efs_run-03_bold.nii.gz
-140	sub-08	rs	03	func/sub-08_task-rs_run-03_bold.nii.gz
-150	sub-08	efs	04	func/sub-08_task-efs_run-04_bold.nii.gz
