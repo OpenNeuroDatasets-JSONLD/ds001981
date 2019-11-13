@@ -7,12 +7,13 @@
         "Juergen Baudewig",
         "Susann Boretius"
     ],
-    "HowToAcknowledge": "Please cite this preprint paper: https://www.biorxiv.org/content/10.1101/667659v1", 
+    "HowToAcknowledge": "Please cite this article: Sirmpilatze, N., Baudewig, J. & Boretius, S. Temporal stability of fMRI in medetomidine-anesthetized rats. Sci Rep 9, 16673 (2019) doi:10.1038/s41598-019-53144-y", 
     "Funding": [
         "DFG Research Center for Nanoscale Microscopy and Molecular Physiology of the Brain (CNMPB)",
         "German Academic Exchange Service (DAAD)"
     ],
     "ReferencesAndLinks": [
-        "Sirmpilatze N, Baudewig J, Boretius S. 2019. Temporal stability of fMRI in medetomidine-anesthetized rats. bioRxiv doi: 10.1101/667659"
+        "Sirmpilatze, N., Baudewig, J. & Boretius, S. Temporal stability of fMRI in medetomidine-anesthetized rats. Sci Rep 9, 16673 (2019) doi:10.1038/s41598-019-53144-y",
+		"https://www.nature.com/articles/s41598-019-53144-y"
     ]
 }
