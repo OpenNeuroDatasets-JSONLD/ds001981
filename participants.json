@@ -12,7 +12,13 @@
     "LongName": "Number of electrical forepaw stimulaiton (EFS) fMRI runs"
   },
   "participant_id": {
-    "Description": "ID of the rat, from sub-01 to sub-24"
+    "Description": "ID of the rat, from sub-01 to sub-24",
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:ParticipantID",
+        "Label": ""
+      }
+    }
   },
   "protocol": {
     "LongName": "medetomidine administration protocol",
